@@ -17,4 +17,5 @@ console.log(numbers);
   EXPECTED RESULT
   ---------------
   [1, 2, 3, 4]
+  
 */
